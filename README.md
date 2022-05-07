@@ -50,3 +50,11 @@ _NOTE:_ Year range is between 2005 and 2020.
     -   Monthly average late aircraft delay by reporting airline for the given year.
 
     _NOTE:_ You have worked created the same dashboard components in `Flight Delay Time Statistics Dashboard` section. We will be reusing the same.
+
+## Screen Captures
+
+![Q3](https://user-images.githubusercontent.com/70851914/167234897-b9a21a82-74e7-4122-ba81-eeea649754dc.PNG)
+
+![Q4](https://user-images.githubusercontent.com/70851914/167234900-cb14b88a-1c2a-4cf6-bc62-bf0b1aa4c5ae.PNG)
+
+![Q5](https://user-images.githubusercontent.com/70851914/167234907-f8063b39-04d8-4468-89e6-384f2567451a.PNG)
